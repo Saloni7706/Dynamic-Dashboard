@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Dynamic-Dashboard
+This project is a Dynamic Dashboard Application built using React and Context API. It allows users to create categories, add or remove widgets dynamically, and search across widgets in real-time. The dashboard is generated from a JSON-like structure and styled with modern, interactive CSS for a professional look.
+>>>>>>> f67cbe9803bd7fc51baa816d07e4ccc7c2c3b287

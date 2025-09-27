@@ -32,9 +32,7 @@ git clone https://github.com/Saloni7706/Dynamic-Dashboard.git
 cd Dynamic-Dashboard
 
 
-### 2. Deployed Link
-
-## 🚀 Live Demo  
+🚀 Live Demo  
 
 👉 **[Click Here to View the Deployed Dashboard](https://dynamic-dashboard-di5vbqzre-sr0120307-6496s-projects.vercel.app)**
   

@@ -31,6 +31,10 @@ The UI is styled with modern, professional CSS to give it an enterprise dashboar
 git clone https://github.com/Saloni7706/Dynamic-Dashboard.git
 cd Dynamic-Dashboard
 
-# 🚀 Live Demo
 
-👉 **[Click Here to View the Deployed Dashboard](https://dynamic-dashboard-di5vbqzre-sr0120307-6496s-projects.vercel.app)**  
+### 2. Deployed Link
+
+## 🚀 Live Demo  
+
+👉 **[Click Here to View the Deployed Dashboard](https://dynamic-dashboard-di5vbqzre-sr0120307-6496s-projects.vercel.app)**
+  
